@@ -1,4 +1,4 @@
-Regex_Pattern = r"^\d\d\D\d\d\D\d\d\d\d"	# Do not delete 'r'.
+Regex_Pattern = r"^[a-zA-Z]*s$"	# Do not delete 'r'.
 
 import re
 

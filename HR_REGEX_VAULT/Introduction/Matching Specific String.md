@@ -5,12 +5,9 @@ You have a test string . Your task is to match the string "hackerrank". This is 
 ## Solucion: **Solucion propia**.
 
 ### Cadena de la solucion.
-```"hackerrank"``` 
+```
+"hackerrank"
+``` 
 
 ### Explicacion de la respuesta.
 La solucion a este problema es simplemente la palabra "hackerrank" porque el requerimiento del programa es detectar esa palabra.
-
-
-## Uso de inteligencia artificial.
-
-## Fuentes.
